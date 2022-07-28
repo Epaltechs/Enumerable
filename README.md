@@ -1,4 +1,4 @@
-# Enumerables
+# Enumerable
 In this project, we use a module inside the class. We create a class MyList and a module MyEnumerable. The module MyEnumerable implements a subset of the functionality of Enumerable.
 
 ## Built with
@@ -9,7 +9,7 @@ To launch the project locally:
 
 ### Step 1:
 Clone this repo locally using git in the command line and the following command
-> https://github.com/Arturgouveia1970/enumerables
+> https://github.com/Epaltechs/enumerable
 Alternatively, you can just download the complete zip file and extract the folder in your directory
 
 ### Step 2:
